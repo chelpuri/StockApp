@@ -30,8 +30,8 @@ export default {
       params: { region: "US", snippetCount: "28" },
       headers: {
         "content-type": "text/plain",
-        "X-RapidAPI-Key": "5513f4da55msha9a9eb727bae897p1dc802jsn85660e1bcb5c",
-        "X-RapidAPI-Host": "yh-finance.p.rapidapi.com"
+        "X-RapidAPI-Key": "xxxx",
+        "X-RapidAPI-Host": "xxxxx"
       },
       data:
         '"Pass in the value of uuids field returned right in this endpoint to load the next page, or leave empty to load first page"'
