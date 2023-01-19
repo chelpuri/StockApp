@@ -1,4 +1,4 @@
-# t
+# Stock Manager
 
 ## Project setup
 ```
